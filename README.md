@@ -16,6 +16,8 @@ This HR Analytics Dashboard is a Power BI project that provides key insights int
 
 ✅ KPI Cards – Highlighting attrition rates, average salary, and workforce age distribution.
 
+![Dashboard Preview](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard/blob/main/HR_Analytics/HR%20Analysis%20img.png)
+
 ## 📌 Tech Stack
 Power BI – Data visualization and analysis
 
